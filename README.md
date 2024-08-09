@@ -7,3 +7,7 @@ Run code and provide QR code secret
   $ totp-code.py <base32_QRcode>
   ```
 
+Example:
+  ```
+  $ totp-code.py KZY4IBAHSPVP6YEWM2JFHPQ2AYCELUAJ
+  ```
