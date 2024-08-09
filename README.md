@@ -10,4 +10,7 @@ Run code and provide QR code secret
 Example:
   ```
   $ totp-code.py KZY4IBAHSPVP6YEWM2JFHPQ2AYCELUAJ
+
+  output:
+    623787    <-- thats your one time password similar to what google authenticator gives you every 30 seconds
   ```
